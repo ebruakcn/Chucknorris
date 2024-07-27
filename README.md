@@ -1,4 +1,4 @@
-### Chuck Norris
+### Canlı Site
 
-[Proje Adı]([https://ebruakcn.github.io/Chucknorris/]
+[Chuck Norris]([https://ebruakcn.github.io/Chucknorris/])
 ![Proje Ekran Görüntüsü](norris.png)
