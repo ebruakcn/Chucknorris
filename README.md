@@ -1,4 +1,4 @@
 ### Chuck Norris
 
-[Proje Adı](https://github-username.github.io/repository-name)
+[Proje Adı]([https://ebruakcn.github.io/Chucknorris/]
 ![Proje Ekran Görüntüsü](norris.png)
